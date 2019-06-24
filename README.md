@@ -1,2 +1,2 @@
-# starter
-My first application
+# Starter
+My first application 
